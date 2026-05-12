@@ -1,0 +1,414 @@
+[
+  {
+    "page": 31,
+    "category": "Crush Cocktails",
+    "menu_item_name": "GUAVA VODKA CRUSH",
+    "menu_item_image": "images/031_guava_vodka_crush.png",
+    "ingredients": [
+      "Smirnoff Vodka",
+      "Fresh lime juice",
+      "Strawberry",
+      "Guava puree",
+      "Salt tincture",
+      "Soda water",
+      "Garnish: Mint sprig"
+    ],
+    "description": "A crushable strawberry and guava vodka soda with all the easy drinkability of a highball \u2014 just way more fun. Make it a double!"
+  },
+  {
+    "page": 33,
+    "category": "Crush Cocktails",
+    "menu_item_name": "COLADA CRUSH",
+    "menu_item_image": "images/033_colada_crush.png",
+    "ingredients": [
+      "Captain Morgan white rum",
+      "Pineapple juice",
+      "Fresh lime juice",
+      "Coconut syrup",
+      "Mint leaves",
+      "Garnish: Mint sprig"
+    ],
+    "description": "A crushable twist on the classic Pi\u00f1a Colada, the perfect combo of tropical and refreshing! Make it a double!"
+  },
+  {
+    "page": 36,
+    "category": "Margaritas",
+    "menu_item_name": "EARLS MARGARITA",
+    "menu_item_image": "images/036_earls_margarita.png",
+    "ingredients": [
+      "El Tequile\u00f1o Blanco Tequila",
+      "Triple sec",
+      "Fresh lime",
+      "Simple syrup",
+      "Garnish: dehydrated lime wheel & 1-inch",
+      "thick 1\u20442 margarita salt rim garnish"
+    ],
+    "description": "Our hero cocktail - made with 100% agave tequila and fresh squeezed lime juice. Upgrade to one of our premium tequila options! El Tequile\u00f1o - Authentic, additive-free, artisanal tequila from the heart of Jalisco. \ud83c\udf35"
+  },
+  {
+    "page": 38,
+    "category": "Margaritas",
+    "menu_item_name": "DON JULIO RESERVE MARGARITA",
+    "menu_item_image": "images/038_don_julio_reserve_margarita.png",
+    "ingredients": [
+      "Don Julio blanco tequila",
+      "Pierre Ferrand dry cura\u00e7ao",
+      "Fresh lime juice",
+      "Agave syrup",
+      "Bittered Sling Moondog Latin bitters",
+      "Garnish: dehydrated orange wheel + 1 inch",
+      "\u00bd black salt rim"
+    ],
+    "description": "The perfect Margarita - our Classic Marg elevated with Don Julio and Pierre Ferrand dry cura\u00e7ao. Don Julio Blanco is the original tequila of the Don Julio family, first produced in 1942. It's known for its crisp, fresh agave flavor with hints of citrus, making it a smooth and versatile choice for sipping or cocktails."
+  },
+  {
+    "page": 40,
+    "category": "Margaritas",
+    "menu_item_name": "THE SPICY MARGARITA",
+    "menu_item_image": "images/040_the_spicy_margarita.png",
+    "ingredients": [
+      "El Tequile\u00f1o Reposado tequila (AB/BC) OR El",
+      "Tequile\u00f1o Blanco tequila (SK/MB/ONT)",
+      "Triple Sec",
+      "Fresh lime juice",
+      "Smoky peppers",
+      "Ginger",
+      "Bittered Sling Moondog Latin bitters",
+      "Firewater tincture",
+      "Garnish: 1 inch 1\u20442 \u2018Swicy' rim & red chili pepper"
+    ],
+    "description": "The best Spicy Margarita - a perfect balance of heat, sweet, and refreshing. We give it 3 out of 5 peppers on the heat level! \ud83c\udf36\ufe0f\ud83c\udf36\ud83c\udf36 Firewater tincture - A very spicy tincture made from habanero peppers. Add an extra dash to make it super spicy!"
+  },
+  {
+    "page": 42,
+    "category": "Margaritas",
+    "menu_item_name": "PEACH BELLINI MARGARITA",
+    "menu_item_image": "images/042_peach_bellini_margarita.png",
+    "ingredients": [
+      "El Tequile\u00f1o Blanco Tequila",
+      "Triple Sec",
+      "Fresh lime juice",
+      "White peach",
+      "Grenadine",
+      "Fresh basil",
+      "Garnish: 1-inch 1\u20442 salt rim & basil leaf"
+    ],
+    "description": "Your new go-to summer margarita. Juicy white peach cut with subtle notes of fresh basil. El Tequile\u00f1o - Authentic, additive-free, artisanal tequila from the heart of Jalisco."
+  },
+  {
+    "page": 44,
+    "category": "Margaritas",
+    "menu_item_name": "GUAVA MARGARITA",
+    "menu_item_image": "images/044_guava_margarita.png",
+    "ingredients": [
+      "El Tequile\u00f1o Blanco tequila",
+      "Aperol",
+      "Fresh lime juice",
+      "Grenadine",
+      "Guava puree",
+      "Garnish: 1 inch 1\u20442 margarita salt rim, mint",
+      "sprig + dehydrated orange wheel"
+    ],
+    "description": "A tropical margarita \u2014 smooth tequila, bright lime, juicy guava, and a touch of bitter-orange from the Aperol. El Tequile\u00f1o - Authentic, additive-free, artisanal tequila from the heart of Jalisco."
+  },
+  {
+    "page": 46,
+    "category": "Margaritas",
+    "menu_item_name": "MARGARITA",
+    "menu_item_image": "images/046_margarita.png",
+    "ingredients": [
+      "400 Conejos Mezcal (Del Magey for ONT)",
+      "El Tequile\u00f1o Blanco Tequila",
+      "Fresh lime",
+      "Smoky pepper",
+      "Mango",
+      "Salt tincture",
+      "Garnish: 1 inch 1\u20442 tajin salt rim +",
+      "dehydrated orange wheel",
+      "MANGO SMOKESHOW"
+    ],
+    "description": "A smoky, tropical mezcal and tequila cocktail with fresh lime, sweet mango, and a touch of peppery spice. 400 Conejos was created to honor the pre-Hispanic legend of the Centzon Totochtin, a group of divine rabbits who guarded the spirit of agave and determined the specific \"vibe\" of your night out. Del Maguey was founded in 1995 by artist Ron Cooper, who revolutionized the industry by being the first to bottle \"Single Village\" mezcals, treating the spirit like fine wine by naming each bottle after the specific Zapotec village where it was handcrafted."
+  },
+  {
+    "page": 48,
+    "category": "Margaritas",
+    "menu_item_name": "PREMIER \u201842 MARGARITA",
+    "menu_item_image": "images/048_premier_42_margarita.png",
+    "ingredients": [
+      "Your own mini bottle of Don Julio 1942",
+      "Tequila",
+      "Pierre Ferrand dry cura\u00e7ao",
+      "Fresh lime juice",
+      "Agave syrup",
+      "Bittered Sling Moondog Latin bitters",
+      "Garnish: 1-inch thick \u00bd black salt rim,",
+      "dehydrated orange wheel + cocktail pick"
+    ],
+    "description": "Our best margarita! A premium take on a classic. Elevated with Don Julio 1942, Pierre Ferrand Dry Cura\u00e7ao, and agave. A premium a\u00f1ejo tequila handcrafted in Mexico and aged for a minimum of 2.5 years in oak barrels. The name pays tribute to the year Don Julio Gonz\u00e1lez started making tequila, and has rich notes of vanilla, oak, roasted agave, and caramel, with a smooth and luxurious finish."
+  },
+  {
+    "page": 50,
+    "category": "Spirits List",
+    "menu_item_name": "wheel",
+    "menu_item_image": "images/050_wheel.png",
+    "ingredients": [
+      "Your own mini bottle of Don Julio 1942",
+      "Tequila (50 ml)",
+      "Garnish: chili-lime salt dipped orange 1/2"
+    ],
+    "description": "Don Julio 1942 \u2014 one ounce poured and served with a chili lime salt-dusted orange, plus the remaining. splash of the mini bottle on the side so you can finish it your way. A premium a\u00f1ejo tequila handcrafted in Mexico and aged for a minimum of 2.5 years in oak barrels. The name pays tribute to the year Don Julio Gonz\u00e1lez started making tequila, and has rich notes of vanilla, oak, roasted agave, and caramel, with a smooth and luxurious finish."
+  },
+  {
+    "page": 53,
+    "category": "Martinis",
+    "menu_item_name": "STRAWBERRY COSMOPOLITAN",
+    "menu_item_image": "images/053_strawberry_cosmopolitan.png",
+    "ingredients": [
+      "Ketel One vodka",
+      "Pierre Ferrand dry cura\u00e7ao",
+      "Cranberry juice",
+      "ZAP lime juice",
+      "Strawberry cordial",
+      "Garnish: orange twist"
+    ],
+    "description": "Smooth Ketel One vodka, zesty lime, and cranberry juice meet sweet strawberry for a perfectly balanced, cosmopolitan martini. Ketel One is named after the original coal-fired copper pot still used at the distillery since the 19th century \u2014Distilleerketel #1\u2014which is so central to the brand's identity that it still sits in the heart of their facility in Schiedam, Holland."
+  },
+  {
+    "page": 55,
+    "category": "Martinis",
+    "menu_item_name": "LYCHEE TINI",
+    "menu_item_image": "images/055_lychee_tini.png",
+    "ingredients": [
+      "Absolut vodka",
+      "Lychee liqueur",
+      "St. Germain Elderflower liqueur",
+      "Bianco vermouth",
+      "Hibiscus",
+      "Fresh lime juice",
+      "Garnish: skewered lychee"
+    ],
+    "description": "A refreshing and elevated cocktail made with Lychee, elderflower and hibiscus! The lychee fruit, native to southern China, has been cultivated for over 2,000 years. Its sweet, floral flavor and juicy texture made it a favorite among Chinese royalty, who often had it delivered fresh by hand over long distances!"
+  },
+  {
+    "page": 57,
+    "category": "Martinis",
+    "menu_item_name": "NITRO ESPRESSO MARTINI",
+    "menu_item_image": "images/057_nitro_espresso_martini.png",
+    "ingredients": [
+      "Ketel One Vodka",
+      "Kahlua",
+      "Cold brew",
+      "Simple syrup",
+      "Garnish: star anise pod"
+    ],
+    "description": "A rich and velvety espresso martini \u2014 smooth Ketel One vodka, bold cold brew, and an irresistible frothy texture from our nitro machine! Make it a Tower for groups of 4-8!"
+  },
+  {
+    "page": 60,
+    "category": "Cocktails",
+    "menu_item_name": "AMARETTO SOUR",
+    "menu_item_image": "images/060_amaretto_sour.png",
+    "ingredients": [
+      "Reifel Rye Canadian whisky (All CAN except",
+      "AB + SK) OR Bulleit Bourbon (AB + SK only)",
+      "Amaretto",
+      "Fresh lemon juice",
+      "Simple syrup",
+      "Egg whites",
+      "Bittered Sling Moondog Latin bitters",
+      "Garnish: trimmed orange zest + morello",
+      "cherry"
+    ],
+    "description": "Sophisticated take on a nostalgic classic. Silky almond flavour complemented by notes of smooth whiskey and tart lemon. Amaretto Sour - A popular 1970s disco era drink reimagined by contemporary craft cocktail culture."
+  },
+  {
+    "page": 62,
+    "category": "Cocktails",
+    "menu_item_name": "MOJITO",
+    "menu_item_image": "images/062_mojito.png",
+    "ingredients": [
+      "Captain Morgan White rum",
+      "Simple syrup",
+      "Fresh lime juice",
+      "Mint",
+      "Soda water",
+      "Garnish: mint sprig"
+    ],
+    "description": "A lively and refreshing mojito \u2014 smooth rum, bright lime, and fresh mint. The Mojito is one of the world's oldest cocktails, famously tracing back to a 16th-century medicinal tonic called \"El Draque\"\u2014named after the explorer Sir Francis Drake\u2014which used crude cane spirit, lime, and mint to treat scurvy and dysentery among his sailors in Cuba. Make it a double?"
+  },
+  {
+    "page": 64,
+    "category": "Cocktails",
+    "menu_item_name": "MOSCOW MULE",
+    "menu_item_image": "images/064_moscow_mule.png",
+    "ingredients": [
+      "Smirnoff vodka",
+      "Ginger syrup",
+      "Fresh lime juice",
+      "Soda water",
+      "Garnish: mint sprig"
+    ],
+    "description": "A crisp and cooling classic featuring Smirnoff Vodka, zesty lime, and spicy ginger syrup, topped with soda and a fragrant sprig of fresh mint. The Moscow Mule was born in 1941 out of a \"triple desperation\" marketing stunt to clear dead stock: a bar owner couldn't sell his ginger beer, a distributor (Smirnoff) couldn't sell his vodka, and a third friend was stuck with a basement full of copper mugs. Make it a double?"
+  },
+  {
+    "page": 66,
+    "category": "Cocktails",
+    "menu_item_name": "EARLS OLD FASHIONED",
+    "menu_item_image": "images/066_earls_old_fashioned.png",
+    "ingredients": [
+      "Reifel Rye Canadian whisky (All CAN except AB",
+      "+SK) Maker's Mark Bourbon (AB + SK)",
+      "Demerara syrup",
+      "Plum + rootbeer bitters",
+      "Garnish: trimmed orange zest and skewered",
+      "cherry garnish"
+    ],
+    "description": "Our take on the classic old-fashioned, made with smooth Reifel Rye Canadian whisky (or Maker's Mark bourbon), demerara sugar, and plum root beer bitters for a unique finish. Upgrade to a premium Whisk(e)y option!"
+  },
+  {
+    "page": 68,
+    "category": "Cocktails",
+    "menu_item_name": "APEROL SPRITZ",
+    "menu_item_image": "images/068_aperol_spritz.png",
+    "ingredients": [
+      "Aperol",
+      "Prosecco",
+      "Soda",
+      "Garnish: dehydrated orange wheel"
+    ],
+    "description": "The perfect aperitif \u2013 bitter-sweet Aperol, sparkling Prosecco, and a splash of soda! Make it a Tower for groups of 4-8!"
+  },
+  {
+    "page": 70,
+    "category": "Cocktails",
+    "menu_item_name": "STRAWBERRY GUAVA SLUSH",
+    "menu_item_image": "images/070_strawberry_guava_slush.png",
+    "ingredients": [
+      "Captain Morgan white rum",
+      "Triple Sec",
+      "Strawberry",
+      "Guava",
+      "Fresh lemon juice",
+      "Garnish: mint sprig, dehydrated lime",
+      "wheel, 6\" compostable straw"
+    ],
+    "description": "A vibrant, frozen blend of Captain Morgan White Rum and Triple Sec, bursting with the tropical sweetness of strawberry, guava, and a bright splash of lemon. Make it a double? Add this slush to any of our other cocktails for a fun frosty addition!"
+  },
+  {
+    "page": 72,
+    "category": "Cocktails",
+    "menu_item_name": "WHITE SANGRIA",
+    "menu_item_image": "images/072_white_sangria.png",
+    "ingredients": [
+      "White wine",
+      "Peach liqueur",
+      "White peach syrup",
+      "White cranberry juice",
+      "Fresh lemon, apples, and oranges",
+      "Garnish: Sangria fruit"
+    ],
+    "description": "A bright and cheerful fruity sangria made with complex white wine, lush fruits and juice. Add slush!"
+  },
+  {
+    "page": 74,
+    "category": "Cocktails",
+    "menu_item_name": "RED SANGRIA",
+    "menu_item_image": "images/074_red_sangria.png",
+    "ingredients": [
+      "Dry red wine",
+      "St. Remy Brandy",
+      "Cranberry",
+      "Fresh lemon juice",
+      "Rasberry cordial",
+      "Fresh strawberries, apples and oranges",
+      "Garnish: Sangria fruit"
+    ],
+    "description": "A warm and fruity sangria made with complex red wine, fresh fruits and juice. Add slush!"
+  },
+  {
+    "page": 77,
+    "category": "Cheekies",
+    "menu_item_name": "SHOTS",
+    "menu_item_image": "images/077_shots.png",
+    "ingredients": [
+      "El Tequile\u00f1o Blanco Tequila",
+      "Aperol",
+      "ZAP lime juice",
+      "Strawberry cordial",
+      "Garnish: 1/2 tajin salt rim",
+      "MINI STRAWBERRY MARG"
+    ],
+    "description": "A snack-sized strawberry margarita to get the party going. Enjoy as a sipper or shooter! A round for the table?"
+  },
+  {
+    "page": 79,
+    "category": "Cheekies",
+    "menu_item_name": "TINY TINI ESPRESSO MARTINI",
+    "menu_item_image": "images/079_tiny_tini_espresso_martini.png",
+    "ingredients": [
+      "Ketel One Vodka",
+      "Kahlua",
+      "Cold brew",
+      "Simple syrup",
+      "Garnish: star anise pod"
+    ],
+    "description": "A miniature version of our incredible nitro espresso martini! The best way to start or end any occasion. A round for the table?"
+  },
+  {
+    "page": 81,
+    "category": "Cheekies",
+    "menu_item_name": "TINY TINI PEACH BELLINI",
+    "menu_item_image": "images/081_tiny_tini_peach_bellini.png",
+    "ingredients": [
+      "Captain Morgan white rum",
+      "Sparkling Wine",
+      "White peach",
+      "Fresh lemon juice",
+      "Grenadine"
+    ],
+    "description": "A bright and bubbly fusion of Captain Morgan White Rum and Prosecco, featuring succulent white peach for a sweet, sparkling finish. A round for the table? Enjoy this two-part drink your way\u2014sip and sip, shoot and shoot, or mix it together!"
+  },
+  {
+    "page": 84,
+    "category": "For the Table",
+    "menu_item_name": "TOWER",
+    "menu_item_image": "images/084_tower.png",
+    "ingredients": [
+      "Ketel One Vodka",
+      "Kahlua",
+      "Cold brew",
+      "Simple syrup",
+      "Garnish: star anise pod",
+      "NITRO ESPRESSO MARTINI"
+    ],
+    "description": "The perfect pick-me-up for any group occasion! For groups of 4-8 guests."
+  },
+  {
+    "page": 86,
+    "category": "For the Table",
+    "menu_item_name": "APEROL SPRITZ TOWER",
+    "menu_item_image": "images/086_aperol_spritz_tower.png",
+    "ingredients": [
+      "Aperol",
+      "Prosecco",
+      "Soda",
+      "Garnish: dehydrated orange wheel"
+    ],
+    "description": "A bright, refreshing Aperol spritz tower. For groups of 4-8 guests."
+  },
+  {
+    "page": 88,
+    "category": "For the Table",
+    "menu_item_name": "PARTY SIZE MARGARITA",
+    "menu_item_image": "images/088_party_size_margarita.png",
+    "ingredients": [
+      "El Tequile\u00f1o Blanco Tequila",
+      "Triple sec",
+      "Fresh lime",
+      "Simple syrup",
+      "Garnish: dehydrated lime wheel & 1-inch",
+      "thick 1\u20442 margarita salt rim garnish"
+    ],
+    "description": "Our hero cocktail - made with 100% agave tequila and fresh squeezed lime juice. Perfect for any group occasion! Choice of strawberry, raspberry, mango or lime. Serves 2-4 guests."
+  }
+]

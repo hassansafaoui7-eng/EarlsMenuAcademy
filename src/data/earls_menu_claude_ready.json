@@ -1,0 +1,1148 @@
+[
+  {
+    "page": 7,
+    "category": "Happy Hour Exclusives",
+    "menu_item_name": "CHARRED CORN + AVOCADO DIP",
+    "menu_item_image": "images/007_charred_corn_avocado_dip.png",
+    "ingredients": [
+      "Seasoned Tortilla Chips",
+      "Smashed Avocado",
+      "Charred Corn",
+      "Chipotle Mayo",
+      "Feta",
+      "Pickled Red Onions",
+      "Watermelon Radish",
+      "Cilantro"
+    ],
+    "description": "Creamy avocado and charred corn dip topped with pickled red onions and feta, served with crispy tortilla chips. Happy Hour Exclusive item.",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 9,
+    "category": "Happy Hour Exclusives",
+    "menu_item_name": "NASHVILLE CRISPY CHICKEN + PICKLE SKEWERS",
+    "menu_item_image": "images/009_nashville_crispy_chicken_pickle_skewers.png",
+    "ingredients": [
+      "Buttermilk Marinated Chicken Thigh",
+      "Fried Chicken Breading",
+      "Chipotle Cayenne Oil",
+      "Nashville Hot Spice",
+      "Bread & Butter Pickles",
+      "Honey Mustard Mayo"
+    ],
+    "description": "Perfectly spiced crispy fried chicken skewers with crunchy bread & butter pickles, and served with honey mustard mayonnaise. Happy Hour Exclusive item.",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 11,
+    "category": "Happy Hour Exclusives",
+    "menu_item_name": "PETITE STEAK FRITES",
+    "menu_item_image": "images/011_petite_steak_frites.png",
+    "ingredients": [
+      "Sirloin Steak",
+      "French Fries",
+      "Garlic Truffle Oil",
+      "Parmesan Cheese",
+      "Chives",
+      "Garlic Truffle Aioli"
+    ],
+    "description": "Juicy, caramelized sliced steak cooked to perfection, paired with crispy truffle fries and garlic truffle dip. Happy Hour Exclusive item.",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 13,
+    "category": "Happy Hour Exclusives",
+    "menu_item_name": "CHIPS & SALSA",
+    "menu_item_image": "images/013_chips_salsa.png",
+    "ingredients": [
+      "Seasoned Tortilla Chips",
+      "Salsa Roja"
+    ],
+    "description": "Perfectly seasoned tortilla chips paired with our delicious salsa roja for dipping! Happy Hour Exclusive item.",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 18,
+    "category": "To Start",
+    "menu_item_name": "YUZU CALAMARI",
+    "menu_item_image": "images/018_yuzu_calamari.png",
+    "ingredients": [
+      "Crispy Marinated Squid",
+      "Cucumber",
+      "Jalapeños",
+      "Watermelon Radish",
+      "Lemon Wedge",
+      "Micro Cilantro",
+      "Yuzu Aioli"
+    ],
+    "description": "Light and crispy squid with a kick of spice and a tangy yuzu aioli for dipping. N/A",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 20,
+    "category": "To Start",
+    "menu_item_name": "SZECHUAN SHRIMP + PORK DUMPLINGS",
+    "menu_item_image": "images/020_szechuan_shrimp_pork_dumplings.png",
+    "ingredients": [
+      "Shrimp + Pork Dumplings",
+      "Szechuan Chili Sauce",
+      "Crushed Peanuts",
+      "Crispy Onions",
+      "Green Onions",
+      "Micro Cilantro"
+    ],
+    "description": "Dumplings filled with shrimp and pork, tossed in a flavorful chili sauce and garnished with peanuts, crispy onions, green onions, and cilantro. N/A",
+    "served_with": "Chopsticks if requested.",
+    "symbols": []
+  },
+  {
+    "page": 22,
+    "category": "To Start",
+    "menu_item_name": "CRISPY CHILI TOFU To Start + Plant-Based",
+    "menu_item_image": "images/022_crispy_chili_tofu_to_start_plant_based.png",
+    "ingredients": [
+      "Tofu",
+      "Sriracha Mayonnaise",
+      "Togarashi",
+      "Green Onion",
+      "Watermelon Radish",
+      "Sweet Chili Soy Sauce"
+    ],
+    "description": "Crispy tofu drizzled with sriracha mayo, and topped with fresh green onions and radishes. Served with a warm sweet chili soy sauce. N/A",
+    "served_with": "Chopsticks if requested.",
+    "symbols": [
+      "V"
+    ]
+  },
+  {
+    "page": 24,
+    "category": "To Start",
+    "menu_item_name": "WARM SPINACH + THREE CHEESE DIP",
+    "menu_item_image": "images/024_warm_spinach_three_cheese_dip.png",
+    "ingredients": [
+      "Ciabatta Bread (or Tortilla Chips)",
+      "Feta Cheese",
+      "Artichokes",
+      "Spinach",
+      "Onion",
+      "Lemon Juice",
+      "Chives"
+    ],
+    "description": "Rich and ceamy spinach, cheese and artichoke dip served with fresh ciabatta bread. Option to swap Ciabatta Bread for Crispy Tortilla Chips.",
+    "served_with": "Soup spoon.",
+    "symbols": []
+  },
+  {
+    "page": 26,
+    "category": "To Start",
+    "menu_item_name": "EARLS WINGS",
+    "menu_item_image": "images/026_earls_wings.png",
+    "ingredients": [
+      "Chicken Wings",
+      "Hot Sauce",
+      "Creamy Ranch Dip"
+    ],
+    "description": "Our famous hot wings, served with a rich and creamy ranch dip. Celery available upon request.",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 28,
+    "category": "To Start",
+    "menu_item_name": "CRISPY CHICKEN TENDERS",
+    "menu_item_image": "images/028_crispy_chicken_tenders.png",
+    "ingredients": [
+      "Hand-breaded Panko Crusted Chicken Tenders",
+      "Citrus Plum Sauce"
+    ],
+    "description": "Six plump and juicy crispy chicken tenders, served with delicious citrus plum sauce. N/A",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 30,
+    "category": "To Start",
+    "menu_item_name": "EARLS FAMOUS CLAM CHOWDER",
+    "menu_item_image": "images/030_earls_famous_clam_chowder.png",
+    "ingredients": [
+      "Clams",
+      "Cream",
+      "Potatoes",
+      "Carrots",
+      "Celery",
+      "Onion",
+      "Tomatoes",
+      "Bacon",
+      "Parsley",
+      "Artisan Bread (large chowder only)"
+    ],
+    "description": "New England-style chowder made with fresh tomatoes, smoky bacon and loads of garnish vegetables. Served with our delicious artisan bread. Choose between Small or Large portion (large comes with Artisan Bread). Small Portion: Add artisan bread to enhance!",
+    "served_with": "Soup Spoon.",
+    "symbols": []
+  },
+  {
+    "page": 32,
+    "category": "To Start",
+    "menu_item_name": "YAM FRIES",
+    "menu_item_image": "images/032_yam_fries.png",
+    "ingredients": [
+      "Yam Fries",
+      "Garlic Aioli Dip"
+    ],
+    "description": "Crispy sweet potatoes served with a creamy garlic aioli dip. N/A",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 34,
+    "category": "To Start",
+    "menu_item_name": "TRUFFLE FRIES",
+    "menu_item_image": "images/034_truffle_fries.png",
+    "ingredients": [
+      "French Fries",
+      "Parmesan Cheese",
+      "Garlic Truffle Oil",
+      "Chives",
+      "Garlic Truffle Aioli Dip"
+    ],
+    "description": "Crispy shoestring-cut fries finished with a pepper medley and freshly grated parmesan, served with a garlic truffle aioli. N/A",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 36,
+    "category": "Config | Off Menu Honoring",
+    "menu_item_name": "FRENCH FRIES",
+    "menu_item_image": "images/036_french_fries.png",
+    "ingredients": [
+      "French Fries",
+      "Ketchup"
+    ],
+    "description": "Crispy shoestring-cut fries seasoned with salt, and ketchup for dipping. N/A",
+    "served_with": "N/A",
+    "symbols": []
+  },
+  {
+    "page": 39,
+    "category": "Sushi + Raw",
+    "menu_item_name": "ABURI SALMON SUSHI PRESS",
+    "menu_item_image": "images/039_aburi_salmon_sushi_press.png",
+    "ingredients": [
+      "Sushi Rice",
+      "Salmon",
+      "Pickled Ginger",
+      "Arare Pearls",
+      "Jalapeño",
+      "Dashi Mayo",
+      "Micro Cilantro",
+      "Micro Greens"
+    ],
+    "description": "Pressed sushi rice topped with torched salmon, crispy arare pearls for texture, and jalapeńo for a little kick. N/A",
+    "served_with": "Sushi setting. Chopsticks if requested.",
+    "symbols": []
+  },
+  {
+    "page": 41,
+    "category": "Sushi + Raw",
+    "menu_item_name": "SPICY CALIFORNIA ROLL",
+    "menu_item_image": "images/041_spicy_california_roll.png",
+    "ingredients": [
+      "Sesame Seed Soy Wrapper",
+      "Sushi Rice",
+      "Shiso Leaves",
+      "Spicy Yuzu Mayo",
+      "Spicy Crab",
+      "Cucumber",
+      "Pickled Ginger",
+      "Avocado",
+      "Arare Pearls",
+      "Togarashi Spice",
+      "Micro Cilantro"
+    ],
+    "description": "A sushi roll with creamy yuzu spicy crab, fresh cucumber, and avocado. N/A",
+    "served_with": "Sushi setting. Chopsticks if requested.",
+    "symbols": []
+  },
+  {
+    "page": 45,
+    "category": "Sushi + Raw",
+    "menu_item_name": "STEAK + SUSHI Sushi + Raw, Steaks",
+    "menu_item_image": "images/045_steak_sushi_sushi_raw_steaks.png",
+    "ingredients": [
+      "Ponzu Sauce",
+      "Choice of Steak",
+      "Choice of Sushi"
+    ],
+    "description": "Your choice of sushi, paired with sliced steak cooked just how you like it! Upgrade from 4oz Prime Sirloin to 6oz Prime Sirloin, 6oz Filet, or 12oz Prime Ribeye. (+ 14oz Ribeye select stores) Cooked to the guests liking - rare, medium rare, medium, medium well, well.",
+    "served_with": "Sushi setting. Steak Knife. Chopsticks if requested. Steak Knowledge",
+    "symbols": []
+  },
+  {
+    "page": 47,
+    "category": "Sushi + Raw",
+    "menu_item_name": "AHI TUNA TATAKI",
+    "menu_item_image": "images/047_ahi_tuna_tataki.png",
+    "ingredients": [
+      "Citrus Ahi Tuna",
+      "Yuzu",
+      "Shaved Fennel",
+      "Pickled Shimeji Mushrooms",
+      "Pickled Ginger",
+      "Crispy Onions",
+      "Avocado Puree",
+      "Micro Greens"
+    ],
+    "description": "Ahi tuna over top yuzu broth, pickled ginger, shimeji mushrooms, crispy onions and avocado puree. N/A",
+    "served_with": "Chopsticks if requested.",
+    "symbols": []
+  },
+  {
+    "page": 49,
+    "category": "Sushi + Raw",
+    "menu_item_name": "OYSTERS ON THE HALF SHELL",
+    "menu_item_image": "images/049_oysters_on_the_half_shell.png",
+    "ingredients": [
+      "Fresh Shucked Oysters",
+      "Fresh Horseradish",
+      "Mignonette",
+      "Lemon Wedge"
+    ],
+    "description": "Fresh Oysters with beautiful crisp and clean brine flavour and a white cream colour from it’s icy waters. Half-Dozen Oysters and/or Single Oysters also available.",
+    "served_with": "1 demitasse spoon, 1 oyster fork per person.",
+    "symbols": []
+  },
+  {
+    "page": 51,
+    "category": "Sushi + Raw",
+    "menu_item_name": "SEAFOOD PLATTER",
+    "menu_item_image": "images/051_seafood_platter.png",
+    "ingredients": [
+      "Shucked Oysters",
+      "Choice of Sushi",
+      "Poached Prawns",
+      "Ahi Tuna Tataki",
+      "Poached Lobster Tail",
+      "Mignonette",
+      "Lemon Vinaigrette",
+      "Horseradish",
+      "Cocktail Sauce",
+      "Lemon Wedges"
+    ],
+    "description": "The perfect way to sample our seafood appetizers together! Fresh oysters, poached prawns, lobster, tuna tataki, and your choice of sushi. Serves 2-4",
+    "served_with": "Small fork, small spoon, sushi setting, and chopsticks if requested. First person: Bring sides: chopsticks + soy bottle *share plates should be preset with the table prior to delivery. Second person: Brings out platter and takes the table through the platter with the delivery description. Not Available At: Robson, Albert St, Regina East, Dalhousie, Crossroads, Barlow, 16 Ave, th Clareview, 170 , St Albert, Campus th",
+    "symbols": []
+  },
+  {
+    "page": 53,
+    "category": "Sushi + Raw",
+    "menu_item_name": "SEAFOOD TOWER",
+    "menu_item_image": "images/053_seafood_tower.png",
+    "ingredients": [
+      "Shucked Oysters",
+      "Choice of Sushi",
+      "Poached prawns",
+      "Ahi Tuna Tataki",
+      "Poached Lobster Tail",
+      "Horseradish",
+      "Mignonette",
+      "Lemon Vinaigrette",
+      "Cocktail Sauce",
+      "Lemon Wedges"
+    ],
+    "description": "The ultimate seafood sampler - oysters, prawns, lobster, tuna tataki, and your choice of sushi. Perfect for sharing! Serves 4-6.",
+    "served_with": "Small fork, small spoon, sushi setting, and chopsticks if requested. First person: Brings sides (chopsticks + soy bottle) *share plates should be preset with the table prior to delivery. Second person: Brings out bottom tier. Third person: Brings out top tier and takes the table through the platter with the delivery description. Not Available At: Robson, Albert St, Regina East, Dalhousie, Crossroads, Barlow, 16 Ave, th Clareview, 170 , St Albert, Campus th",
+    "symbols": []
+  },
+  {
+    "page": 55,
+    "category": "Sushi + Raw",
+    "menu_item_name": "PRAWN COCKTAIL",
+    "menu_item_image": "images/055_prawn_cocktail.png",
+    "ingredients": [
+      "Poached Prawns",
+      "Lemon Vinaigrette",
+      "Seaweed Salad",
+      "Lemon Wedge",
+      "Cocktail Sauce"
+    ],
+    "description": "Six plump + juicy poached prawns served with tangy cocktail sauce. N/A",
+    "served_with": "N/A Not Available At: Robson, Albert St, Regina East, Dalhousie, Crossroads, Barlow, 16 Ave, th Clareview, 170 , St Albert, Campus th",
+    "symbols": []
+  },
+  {
+    "page": 57,
+    "category": "Sushi + Raw",
+    "menu_item_name": "WHITE STURGEON CAVIAR",
+    "menu_item_image": "images/057_white_sturgeon_caviar.png",
+    "ingredients": [
+      "Acadian Emerald Caviar from New Brunswick",
+      "White Sturgeon Roe",
+      "Crème Fraiche",
+      "Chives",
+      "Potato Chips"
+    ],
+    "description": "World class white sturgeon roe with a touch less salt, smooth buttery texture and a faint hint of ocean spray. N/A",
+    "served_with": "N/A Only At: Whistler",
+    "symbols": []
+  },
+  {
+    "page": 60,
+    "category": "Bowls + Salads",
+    "menu_item_name": "COBB SALAD",
+    "menu_item_image": "images/060_cobb_salad.png",
+    "ingredients": [
+      "Romaine",
+      "Cobb Herbs",
+      "Parmesan Vinaigrette",
+      "Blue Cheese",
+      "Oven-dried Tomatoes",
+      "Avocado",
+      "Smoked Bacon",
+      "Soft-boiled eggs",
+      "Fennel Fronds"
+    ],
+    "description": "Earls’ take on classic Cobb Salad, made with blue cheese and crispy bacon, tossed together with our house- made parmesan vinaigrette. Upgrade with chicken, sautéed prawns, salmon, or 4oz prime sirloin.",
+    "served_with": "Tongs when sharing.",
+    "symbols": []
+  },
+  {
+    "page": 62,
+    "category": "Bowls + Salads",
+    "menu_item_name": "SANTA FE SALAD",
+    "menu_item_image": "images/062_santa_fe_salad.png",
+    "ingredients": [
+      "Romaine",
+      "Greens Mix",
+      "Peanut Lime Vinaigrette",
+      "Dates",
+      "Charred Corn",
+      "Feta Cheese",
+      "Black Beans",
+      "Avocado",
+      "Fried Tortilla Strips"
+    ],
+    "description": "An Earls classic! A mix of fresh greens with all of the toppings - dates, feta, creamy avocado, feta cheese, all tossed together in our peanut lime dressing and topped with crispy tortilla strips. Enhance with Chicken, Salmon, Sautéed Prawns, Steak, and/or Artisan bread.",
+    "served_with": "Tongs when sharing.",
+    "symbols": []
+  },
+  {
+    "page": 64,
+    "category": "Bowls + Salads",
+    "menu_item_name": "GRILLED CHICKEN CAESAR SALAD",
+    "menu_item_image": "images/064_grilled_chicken_caesar_salad.png",
+    "ingredients": [
+      "Grilled Chicken",
+      "Romaine",
+      "Caesar Dressing",
+      "Croutons",
+      "Parmesan Cheese",
+      "Artisan Bread"
+    ],
+    "description": "Earls famous Caesar Salad made with house made caesar dressing and topped with parmesan cheese, crispy croutons, and grilled chicken. Vegetarian option available with no protein, or upgrade with Salmon, Cajun Chicken, Sautéed Prawns, Steak, and/or Artisan Bread.",
+    "served_with": "Tongs when sharing.",
+    "symbols": []
+  },
+  {
+    "page": 66,
+    "category": "Config | Off Menu Honoring",
+    "menu_item_name": "GARDEN GREENS SALAD",
+    "menu_item_image": "images/066_garden_greens_salad.png",
+    "ingredients": [
+      "Romaine",
+      "Greens Mix",
+      "Parmesan Vinaigrette",
+      "Croutons",
+      "Watermelon Radish",
+      "Fennel Fronds"
+    ],
+    "description": "Refreshing salad with parmesan vinaigrette, crunchy croutons, and parmesan cheese. Add Grilled or Cajun Chicken, Salmon, Sautéed Prawns, Steak, and/or Artisan bread.",
+    "served_with": "Tongs when sharing.",
+    "symbols": []
+  },
+  {
+    "page": 68,
+    "category": "Bowls + Salads",
+    "menu_item_name": "AHI TUNA POKE BOWL",
+    "menu_item_image": "images/068_ahi_tuna_poke_bowl.png",
+    "ingredients": [
+      "Seasoned Sushi Rice",
+      "Ahi Tuna",
+      "Shredded Cabbage",
+      "Shiso Leaves",
+      "Green Onion",
+      "Dashi Mayo",
+      "Poke Dressing",
+      "Cucumbers",
+      "Mango",
+      "Watermelon Radish",
+      "Sesame Seaweed Salad",
+      "Avocado",
+      "Crushed Macadamia Nuts",
+      "Crispy Onions",
+      "Nori"
+    ],
+    "description": "A fresh and filling bowl of seasoned sushi rice, topped with marinated ahi tuna, fresh mango, veggies, and a savoury dressing. Enhance with extra tuna. Vegetarian option available.",
+    "served_with": "Chopsticks if requested. Tongs when sharing.",
+    "symbols": []
+  },
+  {
+    "page": 71,
+    "category": "Pizza",
+    "menu_item_name": "QUEEN BEE",
+    "menu_item_image": "images/071_queen_bee.png",
+    "ingredients": [
+      "Salted Pizza Crust",
+      "Tomato Sauce",
+      "Red Onions",
+      "Spicy Capicola",
+      "Chorizo",
+      "Fresh Mozzarella",
+      "Parmesan Cheese",
+      "Hot Honey",
+      "Chilli Flakes",
+      "Fresh Basil"
+    ],
+    "description": "Authentic hand-tossed pizza made with Earls’ house made tomato sauce, mozzarella, spicy capicola, red onion, chorizo, hot honey, and fresh basil. Available with GA pizza crust. Enhance with additional pizza toppings.",
+    "served_with": "Pizza stand + share plates.",
+    "symbols": []
+  },
+  {
+    "page": 73,
+    "category": "Pizza",
+    "menu_item_name": "MARGHERITA",
+    "menu_item_image": "images/073_margherita.png",
+    "ingredients": [
+      "Salted Pizza Crust",
+      "Tomato Sauce",
+      "Fresh Mozzarella",
+      "Parmesan Cheese",
+      "Fresh Basil"
+    ],
+    "description": "Authentic hand-tossed pizza made with Earls’ house made tomato sauce, mozzarella and parmesan, and fresh basil. Available with GA pizza crust. Enhance with additional pizza toppings.",
+    "served_with": "Pizza stand + share plates.",
+    "symbols": []
+  },
+  {
+    "page": 75,
+    "category": "Pizza",
+    "menu_item_name": "KALE + MUSHROOM",
+    "menu_item_image": "images/075_kale_mushroom.png",
+    "ingredients": [
+      "Salted Pizza Crust",
+      "Vegan Mayo",
+      "Fresh Mozzarella",
+      "Sautéed Mushrooms",
+      "Caramelized Onion",
+      "Crispy Kale"
+    ],
+    "description": "Authentic hand-tossed pizza made with crispy kale, caramelized onions, marinated mushrooms, and mozzarella. Available with GA pizza crust. Enhance with additional pizza toppings.",
+    "served_with": "Pizza stand + share plates.",
+    "symbols": []
+  },
+  {
+    "page": 78,
+    "category": "Handhelds",
+    "menu_item_name": "DELUXE BURGER",
+    "menu_item_image": "images/078_deluxe_burger.png",
+    "ingredients": [
+      "Toasted Brioche Bun",
+      "Ground Chuck Beef Patty",
+      "Dry Cured Bacon",
+      "Lettuce",
+      "Tomato",
+      "Caramelized Onion Aioli",
+      "BBQ Sauce",
+      "Cheddar",
+      "Pickle",
+      "Crispy Onions",
+      "French Fries"
+    ],
+    "description": "A juicy burger cooked to perfection and served on a toasted brioche bun with crisp vegetables, bacon, cheese, and crispy onions. Comes with fries. Upgrade to yam or truffle fries, salad, or soup. ** Can NOT be made GA.",
+    "served_with": "N/A.",
+    "symbols": []
+  },
+  {
+    "page": 80,
+    "category": "Handhelds",
+    "menu_item_name": "NASHVILLE CRISPY CHICKEN SANDWICH",
+    "menu_item_image": "images/080_nashville_crispy_chicken_sandwich.png",
+    "ingredients": [
+      "Toasted Brioche Bun (or GA bun)",
+      "Hot Fried Chicken Thigh",
+      "Nashville Hot Spice",
+      "Honey Mustard Aioli",
+      "Bread & Butter Pickles",
+      "Lemon Slaw",
+      "French Fries"
+    ],
+    "description": "A twist on our classic burger! Hot chicken stacked with fresh veggies on a perfectly toasted brioche bun. Comes with fries. Upgrade to yam or truffle fries, salad, or soup.",
+    "served_with": "N/A.",
+    "symbols": []
+  },
+  {
+    "page": 82,
+    "category": "Handhelds",
+    "menu_item_name": "GARDEN BURGER Handhelds + Plant-Based",
+    "menu_item_image": "images/082_garden_burger_handhelds_plant_based.png",
+    "ingredients": [
+      "Toasted Brioche Bun (or GA bun)",
+      "100% Plant-Based Patty",
+      "Lettuce",
+      "Tomato",
+      "Red Onion",
+      "Pickle",
+      "Mayo",
+      "Mustard",
+      "French Fries"
+    ],
+    "description": "So delicious, you wouldn't know the difference! A juicy plant-based patty, topped with fresh veggies and served on a toasted brioche bun. Comes with fries. Upgrade to yam or truffle fries, salad, or soup.",
+    "served_with": "N/A.",
+    "symbols": [
+      "V"
+    ]
+  },
+  {
+    "page": 84,
+    "category": "Handhelds",
+    "menu_item_name": "BIGGER BETTER BURGER",
+    "menu_item_image": "images/084_bigger_better_burger.png",
+    "ingredients": [
+      "Toasted Brioche Bun (or GA Bun)",
+      "Ground Chuck Patty",
+      "Lettuce",
+      "Tomato",
+      "Onion",
+      "Pickle",
+      "Mayo",
+      "Mustard",
+      "French Fries"
+    ],
+    "description": "A juicy beef patty, topped with fresh veggies, and a toasted brioche bun. Comes with fries. Upgrade to yam or truffle fries, salad, or soup. Add Cheddar, Bacon, Avocado, Fried Egg, and/or an extra patty.",
+    "served_with": "N/A.",
+    "symbols": []
+  },
+  {
+    "page": 86,
+    "category": "Handhelds",
+    "menu_item_name": "CAJUN CHICKEN CHEDDAR SANDWICH",
+    "menu_item_image": "images/086_cajun_chicken_cheddar_sandwich.png",
+    "ingredients": [
+      "Toasted Brioche Bun (or GA Bun)",
+      "Cajun Chicken",
+      "Mayo",
+      "Lettuce",
+      "Tomato",
+      "Cheddar",
+      "French Fries"
+    ],
+    "description": "Earls classic sandwich with spicy cajun chicken, lettuce, tomato, and cheddar cheese all served on a toasted brioche bun. Comes with fries. Upgrade to yam or truffle fries, salad, or soup. Add Cheddar, Bacon, Avocado, Fried Egg, and/or an extra patty.",
+    "served_with": "N/A.",
+    "symbols": []
+  },
+  {
+    "page": 89,
+    "category": "Mains",
+    "menu_item_name": "SPICY CALABRIAN PASTA",
+    "menu_item_image": "images/089_spicy_calabrian_pasta.png",
+    "ingredients": [
+      "Rigatoni Noodles",
+      "Chorizo",
+      "Spicy Tomato Sauce",
+      "Toasted Garlic Crumbs",
+      "Burrata Cheese",
+      "Parmesan Cheese",
+      "Basil Leaves"
+    ],
+    "description": "El dente Rigatoni noodles, coated in a smooth spicy tomato sauce with lightly caramelized chorizo, toasted garlic crumb, parmesan cheese, fresh basil, and a ball of burrata cheese. Vegetarian option available with no chorizo. Option to add chicken, salmon, sautéed prawns, steak, and/or artisan bread.",
+    "served_with": "Tongs when sharing. Pronounced: ka·lah·bree·in",
+    "symbols": []
+  },
+  {
+    "page": 91,
+    "category": "Mains",
+    "menu_item_name": "CHICKEN FETTUCCINE ALFREDO",
+    "menu_item_image": "images/091_chicken_fettuccine_alfredo.png",
+    "ingredients": [
+      "Fettuccine Noodles",
+      "Grilled or Cajun Chicken",
+      "Garlic Cream",
+      "Alfredo Sauce",
+      "Parmesan Cheese",
+      "Parsley",
+      "Cracked Black Pepper"
+    ],
+    "description": "Rich and creamy fettuccine tossed with chicken (or choice of protein), freshly grated parmesan, and fresh cracked pepper. Vegetarian option available. Or upgrade with salmon, sautéed prawns, steak, and/or artisan bread.",
+    "served_with": "Tongs when sharing.",
+    "symbols": []
+  },
+  {
+    "page": 93,
+    "category": "Mains",
+    "menu_item_name": "KOREAN BEEF BIBIMBAP",
+    "menu_item_image": "images/093_korean_beef_bibimbap.png",
+    "ingredients": [
+      "Beef, Chicken, or Prawns",
+      "Sesame Oil",
+      "Jasmine Rice",
+      "Soy Sauce",
+      "Garlic",
+      "Sriracha Mayonnaise",
+      "Soy Ginger Mushroom Mix",
+      "Steamed Carrots",
+      "Broccolini",
+      "Kimchi",
+      "Poached Egg",
+      "Bibimbap Sauce",
+      "Sesame Seeds",
+      "Micro Cilantro"
+    ],
+    "description": "A bowl of piping hot crispy rice topped with beef, fresh vegetables, a poached egg, and cilantro. Finished with a spicy gochujang sauce. Choose between beef, chicken, prawns, or our vegan tofu.",
+    "served_with": "Two soup spoons (for stirring). When delivering, say: Make sure to use your two spoons to give the bowl a good mix! Breaking the egg and stirring everything from the bottom up.",
+    "symbols": []
+  },
+  {
+    "page": 95,
+    "category": "Mains",
+    "menu_item_name": "VEGAN KOREAN TOFU BIBIMBAP Mains + Plant-Based",
+    "menu_item_image": "images/095_vegan_korean_tofu_bibimbap_mains_plant_based.png",
+    "ingredients": [
+      "Crispy Tofu",
+      "Sesame Oil",
+      "Jasmine Rice",
+      "Citrus Soy Sauce",
+      "Sriracha Mayonnaise",
+      "Soy Ginger Mushroom Mix",
+      "Steamed Carrots",
+      "Broccolini",
+      "Bibimbap Sauce",
+      "Sesame Seeds",
+      "Micro Cilantro"
+    ],
+    "description": "A bowl of piping hot crispy rice topped with tofu, fresh vegetables, and cilantro. Finished with a spicy gochujang sauce.",
+    "served_with": "N/A Two soup spoons (for stirring). When delivering, say: Make sure to use your two spoons to give the bowl a good mix - stirring everything from the bottom up.",
+    "symbols": [
+      "V"
+    ]
+  },
+  {
+    "page": 97,
+    "category": "Mains",
+    "menu_item_name": "CHICKEN HUNAN KUNG PAO",
+    "menu_item_image": "images/097_chicken_hunan_kung_pao.png",
+    "ingredients": [
+      "Grilled Chicken",
+      "Wok Seared Vegetables (Red",
+      "Pepper, Carrot, Celery, Red Onion)",
+      "Bok Choy",
+      "Ginger Soy Sauce",
+      "Peanuts",
+      "Chow Mein Noodles",
+      "Hunan Peppers (0-6)",
+      "Sesame Seeds",
+      "Green Onions"
+    ],
+    "description": "Customize your spice preference with 0-6 hunan peppers. Plant-based option available.",
+    "served_with": "Tongs when sharing. A bowl of wok-fried noodles tossed with chicken, loads of veggies, and all cooked in our house-made hunan sauce.",
+    "symbols": []
+  },
+  {
+    "page": 99,
+    "category": "Mains",
+    "menu_item_name": "CAJUN BLACKENED OVEN-ROASTED SALMON",
+    "menu_item_image": "images/099_cajun_blackened_oven_roasted_salmon.png",
+    "ingredients": [
+      "Cajun Blackened Oven-Roasted Salmon",
+      "Jasmine Rice with Crispy Onions",
+      "Seasonal Vegetables",
+      "Green Onions",
+      "Micro Greens",
+      "Garlic Butter",
+      "Lemon Wedge"
+    ],
+    "description": "N/A.",
+    "served_with": "N/A. Melt in your mouth oven roasted cajun blackened salmon, served with seasonal vegetables and jasmine rice.",
+    "symbols": []
+  },
+  {
+    "page": 101,
+    "category": "Mains",
+    "menu_item_name": "FETA CAPER AIOLI OVEN-ROASTED SALMON",
+    "menu_item_image": "images/101_feta_caper_aioli_oven_roasted_salmon.png",
+    "ingredients": [
+      "Feta Caper + Dill Aioli Oven-Roasted Salmon",
+      "Jasmine Rice with Crispy Onions",
+      "Seasonal Vegetables",
+      "Green Onions",
+      "Shaved Fennel",
+      "Lemon Vinaigrette",
+      "Micro Greens"
+    ],
+    "description": "N/A.",
+    "served_with": "N/A. Melt in your mouth oven-roasted feta caper aioli salmon, served with seasonal vegetables and jasmine rice.",
+    "symbols": []
+  },
+  {
+    "page": 103,
+    "category": "Mains",
+    "menu_item_name": "CAJUN BLACKENED CHICKEN",
+    "menu_item_image": "images/103_cajun_blackened_chicken.png",
+    "ingredients": [
+      "Cajun Chicken",
+      "Garlic Butter",
+      "Warm Potato Salad (bacon, corn",
+      "chives)",
+      "Kale oil",
+      "Coleslaw"
+    ],
+    "description": "N/A.",
+    "served_with": "N/A. A juicy, cajun blackened chicken breast served over a creamy warm potato salad loaded with corn and bacon, and perfectly complimented with our zesty coleslaw.",
+    "symbols": []
+  },
+  {
+    "page": 107,
+    "category": "Mains",
+    "menu_item_name": "BBQ RIBS + CAJUN CHICKEN (FULL OR HALF)",
+    "menu_item_image": "images/107_bbq_ribs_cajun_chicken_full_or_half.png",
+    "ingredients": [
+      "BBQ Braised Pork Ribs",
+      "Cajun Chicken",
+      "Warm Potato Salad (bacon, corn",
+      "chives)",
+      "Kale oil",
+      "Coleslaw"
+    ],
+    "description": "Full or Half portion to choose from - always ask the guest. Enhance with sautéed mushrooms, sautéed prawns, lobster tail, and/or artisan bread.",
+    "served_with": "N/A. Get the best of both worlds with our melt in your mouth famous BBQ ribs and juicy cajun blackened chicken, all over top of our creamy warm potato salad.",
+    "symbols": []
+  },
+  {
+    "page": 110,
+    "category": "Tacos",
+    "menu_item_name": "BAJA",
+    "menu_item_image": "images/110_baja.png",
+    "ingredients": [
+      "Flour Tortillas (or GA corn tortilla)",
+      "Crispy Battered Pacific Cod",
+      "Pineapple Jalapeño Salsa",
+      "Smashed Avocado",
+      "Green Cabbage",
+      "Chipotle Crema",
+      "Salsa Roja",
+      "Spiced Tortilla Chips",
+      "Lime Wedge"
+    ],
+    "description": "Enjoy our crispy battered pacific cod in a warm flour tortilla, topped with smashed avocado and pineapple jalapeño salsa. All served with spiced tortilla chips and salsa roja. GA Corn tortilla available. Upgrade from tortilla chips to french or truffle fries, salad, or soup. Add single Baja taco (config only - off menu).",
+    "served_with": "N/A.",
+    "symbols": []
+  },
+  {
+    "page": 112,
+    "category": "Tacos",
+    "menu_item_name": "POLLO",
+    "menu_item_image": "images/112_pollo.png",
+    "ingredients": [
+      "Flour Tortillas (or GA corn tortilla)",
+      "Grilled Chicken",
+      "Smashed Avocado",
+      "Charred Corn",
+      "Green Cabbage",
+      "Chipotle Crema",
+      "Pickled Red Onions",
+      "Feta",
+      "Cilantro",
+      "Salsa Roja",
+      "Spiced Tortilla Chips",
+      "Lime Wedge"
+    ],
+    "description": "Juicy grilled chicken, smashed avocado, feta, and chipotle crema wrapped in a warm tortilla. All served with spiced tortilla chips and salsa roja. GA Corn tortilla available. Upgrade from tortilla chips to french or truffle fries, salad, or soup.",
+    "served_with": "N/A.",
+    "symbols": []
+  },
+  {
+    "page": 114,
+    "category": "Tacos",
+    "menu_item_name": "CARNE",
+    "menu_item_image": "images/114_carne.png",
+    "ingredients": [
+      "Flour Tortillas (or GA Corn Tortilla)",
+      "Chargrilled Sirloin Steak",
+      "Smashed Avocado",
+      "Charred Corn",
+      "Chipotle Crema",
+      "Green Cabbage",
+      "Pickled Red Onions",
+      "Feta",
+      "Cilantro",
+      "Salsa Roja",
+      "Spiced Tortilla Chips",
+      "Lime Wedge"
+    ],
+    "description": "Grilled tortillas loaded with juicy chargrilled sirloin steak, smashed avocado, feta, and chipotle crema. All served with spiced tortilla chips and salsa roja. GA Corn tortilla available. Upgrade from tortilla chips to french or truffle fries, salad, or soup.",
+    "served_with": "N/A.",
+    "symbols": []
+  },
+  {
+    "page": 117,
+    "category": "Steaks",
+    "menu_item_name": "CLASSICS",
+    "menu_item_image": "images/117_classics.png",
+    "ingredients": [
+      "6oz Prime Sirloin, 6oz Filet Mignon, or 12oz Prime Striploin (+ 14oz ribeye select stores)",
+      "Seasonal Vegetables",
+      "Garlic Mashed Potatoes",
+      "Crispy Potato Garnish"
+    ],
+    "description": "Your choice of premium steak cooked just how you like it, creamy garlic mashed potatoes, and seasonal vegetables. Choose from a 6oz prime sirloin, 6oz filet mignon, or 12oz prime striploin. (+ 14oz ribeye select stores) Enhance with Black Truffle Butter, Blackening Spice, Peppercorn Sauce, Sautéed Prawns, Sautéed Mushrooms, or Lobster Tail. Cooked to the guests liking - rare, medium rare, medium, medium well, well.",
+    "served_with": "Steak knife. Steak Knowledge",
+    "symbols": []
+  },
+  {
+    "page": 119,
+    "category": "Steaks",
+    "menu_item_name": "STEAK FRITES",
+    "menu_item_image": "images/119_steak_frites.png",
+    "ingredients": [
+      "4oz Chargrilled Prime Sirloin",
+      "Artisan Bread",
+      "French Fries",
+      "Garden Greens",
+      "Horseradish Cream",
+      "Ketchup"
+    ],
+    "description": "Your choice of steak, paired with the most perfect french fries, garlic bread, and a fresh salad. Upgrade 4oz prime sirloin to 6oz prime sirloin, 6oz filet mignon, or 12oz striploin (+ 14oz Ribeye select stores). Enhance with Black Truffle Butter, Blackening Spice, Peppercorn Sauce, Sautéed Prawns, Sautéed Mushrooms, or Lobster Tail. Cooked to the guests liking - rare, medium rare, medium, medium well, well.",
+    "served_with": "Steak knife. Steak Knowledge",
+    "symbols": []
+  },
+  {
+    "page": 121,
+    "category": "Steaks",
+    "menu_item_name": "STEAK + SUSHI Steaks, Sushi + Raw",
+    "menu_item_image": "images/121_steak_sushi_steaks_sushi_raw.png",
+    "ingredients": [
+      "Ponzu Sauce",
+      "Choice of Steak",
+      "Choice of Sushi"
+    ],
+    "description": "Your choice of sushi, paired with sliced steak cooked just how you like it! Upgrade from 4oz Prime Sirloin to 6oz Prime Sirloin, 6oz Filet, or 12oz Prime Ribeye. (+ 14oz Ribeye select stores) Cooked to the guests liking - rare, medium rare, medium, medium well, well.",
+    "served_with": "Sushi setting, Steak knife. Steak Knowledge",
+    "symbols": []
+  },
+  {
+    "page": 124,
+    "category": "Desserts",
+    "menu_item_name": "CRÈME BRÛLÉE CHEESECAKE",
+    "menu_item_image": "images/124_cr_me_br_l_e_cheesecake.png",
+    "ingredients": [
+      "New York-Style Cheesecake with torched sugar",
+      "Vanilla Crème Angalise",
+      "Chantilly Cream",
+      "Fresh Strawberries"
+    ],
+    "description": "New York-style cheesecake with a torched sugar top, served with vanilla crème angalise, chantilly cream, and fresh strawberries. N/A.",
+    "served_with": "Dessert spoon.",
+    "symbols": []
+  },
+  {
+    "page": 126,
+    "category": "Desserts",
+    "menu_item_name": "STICKY TOFFEE CHOCOLATE PUDDING",
+    "menu_item_image": "images/126_sticky_toffee_chocolate_pudding.png",
+    "ingredients": [
+      "Chocolate Toffee Cake",
+      "Chocolate Sauce",
+      "Toffee Sauce",
+      "Vanilla Ice Cream",
+      "Almond Florentine",
+      "Fresh Strawberries"
+    ],
+    "description": "Warm chocolate cake with drizzled chocolate and toffee sauce, paired with vanilla ice cream, almond florentine, and fresh strawberries. N/A.",
+    "served_with": "Dessert spoon.",
+    "symbols": []
+  },
+  {
+    "page": 128,
+    "category": "Seasonal Desserts",
+    "menu_item_name": "LEMON MERINGUE PIE",
+    "menu_item_image": "images/128_lemon_meringue_pie.png",
+    "ingredients": [
+      "Graham Cracker Crust",
+      "Torched Meringue",
+      "Lemon Curd",
+      "Lemon Zest"
+    ],
+    "description": "Tart lemon curd in a graham cracker crust, topped with toasted meringue and finished with fresh lemon zest N/A.",
+    "served_with": "Dessert spoon.",
+    "symbols": []
+  },
+  {
+    "page": 130,
+    "category": "Seasonal Desserts",
+    "menu_item_name": "PUMPKIN PIE",
+    "menu_item_image": "images/130_pumpkin_pie.png",
+    "ingredients": [
+      "Graham Cracker Crust",
+      "Pumpkin",
+      "Cinnamon Sugar",
+      "Ginger",
+      "Chantilly Cream",
+      "Candied Pecan Crumble"
+    ],
+    "description": "Our famous pumpkin pie is back for the season—creamy spiced pumpkin in a graham cracker crust, topped with chantilly cream and candied pecan crumble. N/A.",
+    "served_with": "Dessert spoon.",
+    "symbols": []
+  },
+  {
+    "page": 132,
+    "category": "Seasonal Desserts",
+    "menu_item_name": "BOURBON PECAN PIE",
+    "menu_item_image": "images/132_bourbon_pecan_pie.png",
+    "ingredients": [
+      "Graham Cracker Crust",
+      "Pecans",
+      "Cinnamon",
+      "Maple syrup",
+      "Bourbon",
+      "Chantilly Cream",
+      "Dark Chocolate Shavings"
+    ],
+    "description": "Maple-bourbon pecan filling in a buttery graham crust, topped with fluffy chantilly cream and dark chocolate shavings. N/A.",
+    "served_with": "Dessert spoon.",
+    "symbols": []
+  },
+  {
+    "page": 135,
+    "category": "Brunch",
+    "menu_item_name": "CHILAQUILES BRUNCH BOWL",
+    "menu_item_image": "images/135_chilaquiles_brunch_bowl.png",
+    "ingredients": [
+      "Poached Eggs",
+      "Spicy Chorizo",
+      "Crispy Seasoned Tortilla Chips",
+      "Potato Pavé",
+      "Salsa Roja",
+      "Spicy Tomato Sauce",
+      "Black Beans",
+      "Charred Corn",
+      "Oven-Dried Tomatoes",
+      "Avocado",
+      "Feta",
+      "Pickled Red Onions",
+      "Chipotle Mayo",
+      "Jalapeño",
+      "Micro Cilantro"
+    ],
+    "description": "Crispy potato pavé, tortilla chips, spicy chorizo, and poached eggs layered under charred corn, pickled onions, chipotle mayo, and feta. N/A.",
+    "served_with": "N/A. Pronounced: chee·lah·kee·lays",
+    "symbols": []
+  },
+  {
+    "page": 137,
+    "category": "Brunch",
+    "menu_item_name": "TOMATO + FETA SHAKSHUKA",
+    "menu_item_image": "images/137_tomato_feta_shakshuka.png",
+    "ingredients": [
+      "Moroccan Shakshuka Sauce",
+      "Oven-Baked Eggs",
+      "Chipotle Cayenne Oil",
+      "Kalamata Olives",
+      "Feta Cheese",
+      "Jalapeño",
+      "Cilantro",
+      "Artisan Bread"
+    ],
+    "description": "Oven-baked eggs in a rich tomato sauce with feta, olives, cilantro, and crispy artisan bread. N/A.",
+    "served_with": "Soup spoon.",
+    "symbols": []
+  },
+  {
+    "page": 141,
+    "category": "Brunch",
+    "menu_item_name": "BREAKFAST TACOS",
+    "menu_item_image": "images/141_breakfast_tacos.png",
+    "ingredients": [],
+    "description": "Fluffy scrambled eggs and chorizo in tortillas, topped with melted cheese, fresh lettuce and cilantro, and creamy avocado. Paired with crispy potato pavé and a side of our garden greens.",
+    "served_with": "N/A. Substitute flour tortilla for corn tortilla to make GA.",
+    "symbols": []
+  },
+  {
+    "page": 143,
+    "category": "Brunch",
+    "menu_item_name": "EARLS BREAKFAST",
+    "menu_item_image": "images/143_earls_breakfast.png",
+    "ingredients": [
+      "Sunny Side Up Eggs",
+      "Bacon",
+      "Potato Pavé",
+      "Garden Greens",
+      "Parmesan Vinaigrette",
+      "Artisan Bread"
+    ],
+    "description": "A classic breakfast prepared with two sunny side up eggs, crispy bacon, crispy potato pave bites, salad, and toast.",
+    "served_with": "N/A. Confirm how the guest would like their eggs cooked.",
+    "symbols": []
+  },
+  {
+    "page": 145,
+    "category": "Brunch",
+    "menu_item_name": "ALMOND BERRY PANCAKE",
+    "menu_item_image": "images/145_almond_berry_pancake.png",
+    "ingredients": [
+      "Pancake",
+      "Orange Zest",
+      "Vanilla Crème Anglaise",
+      "Raspberry Coulis",
+      "Almond Crumble",
+      "Chantilly Cream",
+      "Strawberries",
+      "Icing Sugar",
+      "Mint Sprig",
+      "Maple Syrup"
+    ],
+    "description": "A crispy on the outside, fluffy on the inside jumbo pancake topped with raspberry coulis, fresh fruit, candied almond crumble, and chantilly cream.",
+    "served_with": "N/A. N/A.",
+    "symbols": []
+  },
+  {
+    "page": 147,
+    "category": "Brunch",
+    "menu_item_name": "CLASSIC BENEDICT",
+    "menu_item_image": "images/147_classic_benedict.png",
+    "ingredients": [
+      "Artisan Bread",
+      "Poached Eggs",
+      "Ham",
+      "Hollandaise",
+      "Chives",
+      "Potato Pavé",
+      "Garden Greens",
+      "Parmesan Vinaigrette"
+    ],
+    "description": "Poached eggs and ham on toast, topped with rich hollandaise and fresh chives, served with potato pavé and garden greens in a parmesan vinaigrette.",
+    "served_with": "N/A. Confirm how the guest would like their eggs cooked.",
+    "symbols": []
+  },
+  {
+    "page": 149,
+    "category": "Brunch",
+    "menu_item_name": "AVOCADO BENEDICT",
+    "menu_item_image": "images/149_avocado_benedict.png",
+    "ingredients": [
+      "Artisan Bread",
+      "Poached Eggs",
+      "Avocado",
+      "Hollandaise",
+      "Chives",
+      "Potato Pavé",
+      "Garden Greens",
+      "Parmesan Vinaigrette"
+    ],
+    "description": "Poached eggs and smashed avocado on toast, topped with hollandaise and chives, served with potato pavé and garden greens in a parmesan vinaigrette.",
+    "served_with": "N/A. Enhance by adding bacon!",
+    "symbols": []
+  }
+]
