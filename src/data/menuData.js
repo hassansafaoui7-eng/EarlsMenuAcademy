@@ -43,7 +43,7 @@ export const getImageUrl = (item) => {
   }
 
   const filename = cleanName.replace(/\s+/g, '') + '.png';
-  return item.type === 'food' ? `/EarlsFoodItemsImages/${filename}` : `/EarlsDrinkItemsImages/${filename}`;
+  return item.type === 'food' ? `EarlsFoodItemsImages/${filename}` : `EarlsDrinkItemsImages/${filename}`;
 };
 
 export const getDifficulty = (item) => {
